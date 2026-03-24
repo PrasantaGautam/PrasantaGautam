@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Prasanta Gautam 👋
 
-<!--
-**PrasantaGautam/PrasantaGautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cyber Security Undergraduate
+🔐 Aspiring Ethical Hacker & Penetration Tester
+💻 Learning Linux, Networking, and Python
+📍 Birmingham, UK
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a cyber security student with a strong interest in ethical hacking and penetration testing.
+I enjoy understanding how systems work, identifying vulnerabilities, and learning how to secure them.
+
+🛠 Skills
+Python
+Linux
+Networking Basics
+Cyber Security Fundamentals
+Penetration Testing (Beginner)
+
+📈 Goals
+Build real-world cyber security projects
+Improve penetration testing skills
+Secure a placement in 2026
+📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/prasantagautam/
